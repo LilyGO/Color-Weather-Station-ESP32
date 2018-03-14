@@ -4,12 +4,10 @@
 * Development: [![Build Status](https://api.travis-ci.org/squix78/esp8266-weather-station.svg?branch=development)](https://travis-ci.org/squix78/esp8266-weather-station)
 
 # esp8266-weather-station
-This code works best with the NodeMCU V1, 0.96" OLED display.
-Since it is sometimes complicated to find the right parts I created a kit which contains all the parts including the connector PCB:
-https://blog.squix.org/product/weatherstation-kit-w-white-oled
-By buying the kit from me you are supporting future development. Thank you!
-
-[![Squix ESP8266 WeatherStation Classic Kit](https://blog.squix.org/wp-content/uploads/2016/12/Components4-300x300.jpg)](https://blog.squix.org/product/weatherstation-kit-w-white-oled)
+This code works best with the TTGO TM Music board. 
+https://ae01.alicdn.com/kf/HTB1YbI1lMvD8KJjSsplq6yIEFXaU/Ttgo-2-4-PCM5102A-SD-ESP32-WiFi-Bluetooth.jpg
+https://ru.aliexpress.com/item/Ttgo-2-4-PCM5102A-SD-ESP32-WiFi-Bluetooth/32848882218.html?spm=a2g0s.9042311.0.0.BYS264 
+based on ESP32.
 
 
 ## Arduino IDE
@@ -27,7 +25,7 @@ Make sure you use a version of the Arduino IDE which is supported by the ESP8266
 * In the Arduino IDE go to File > Examples > ESP8266 Weather Station
  * Enter  the Wunderground API Key
  * Enter your Wifi credentials
- * Adjust the location according to Wunderground API, e.g. Zurich, CH
+ * Adjust the location according to Wunderground API, e.g. Yekaterinburg, RS
  * Adjust UTC offset
 
 ## Setup for PlatformIO
