@@ -21,8 +21,8 @@ See more at http://blog.squix.ch
 #include <simpleDSTadjust.h>
 
 // Setup
-#define WIFI_SSID "Home"
-#define WIFI_PASS "44332221111"
+#define WIFI_SSID "YourSSID"
+#define WIFI_PASS "YourPASS"
 
 const int UPDATE_INTERVAL_SECS = 15 * 60; // Update every 15 minutes
 const int SLEEP_INTERVAL_SECS = 0;   // Going to Sleep after idle times, set 0 for dont sleep
@@ -57,8 +57,8 @@ const int SLEEP_INTERVAL_SECS = 0;   // Going to Sleep after idle times, set 0 f
 // e.g. http://api.wunderground.com/api/808ba87ed77c4511/conditions/q/CH/Zurich.json
 // e.g. http://api.wunderground.com/api/808ba87ed77c4511/conditions/q/CA/SAN_FRANCISCO.json <- note that in the US you use the state instead of country code
 
-const String DISPLAYED_CITY_NAME = "Zabansk";
-const String WUNDERGRROUND_API_KEY = "26523cc7cd6008f5";
+const String DISPLAYED_CITY_NAME = "Yekaterinburg";
+const String WUNDERGRROUND_API_KEY = "Your_API_Key";
 const String WUNDERGRROUND_LANGUAGE = "RS";
 const String WUNDERGROUND_COUNTRY = "Russia";
 const String WUNDERGROUND_CITY = "Yekaterinburg";
