@@ -4,13 +4,14 @@ https://github.com/ThingPulse/esp8266-weather-station-color
 
   based on TTGO TM MUSIC ESP32 + 2.4 TFT
   
-![image](https://github.com/LilyGO/TTGO-TM-ESP32/blob/master/Image/T14%20V1.0.jpg)
 ![image](https://github.com/LilyGO/Color-Weather-Station-ESP32/blob/master/image/image.jpg)
 If You MCU is ESP32 you must use modified library from esp8266-weather-station-master
 
   This fork Squix Weather Station
+  
 https://github.com/ThingPulse/esp8266-weather-station-color
   Using the TTGO TM Music board
+  
 https://ru.aliexpress.com/item/Ttgo-2-4-PCM5102A-SD-ESP32-WiFi-Bluetooth/32848882218.html?spm=a2g0s.9042311.0.0.BYS264
   Made on ESP32. 
   
