@@ -1,4 +1,8 @@
 # Color-Weather-Station-ESP32
+  youtube link:https://www.youtube.com/watch?v=gg3Hr2Goizk&feature=youtu.be
+
+![image](https://github.com/LilyGO/Color-Weather-Station-ESP32/blob/master/image/Screenshot_5.png)
+
   This is fork of a Squix Weather Station 
 https://github.com/ThingPulse/esp8266-weather-station-color
 
